@@ -1,0 +1,25 @@
+Introduction : Vending machine is a unit which provides food/drink in exchange of coins or dollar bills. 
+Goal : Testing the functionality of vending machine.
+
+1. Check proper/improper change
+2. check proper item/improper item.
+3. Check if there are no items and filled with suffucient stuff.
+4. Check the connection of the machine.
+5. Check if machine have all the required buttons.
+6. Check if it have coin return.
+7. Check if it have all the numeric keys and are working properly.
+8. Check the time taken for dropping the item.
+9. Checking the quality of item dropped.
+10. Check if inserted less amount of coins as per price of an item and press ok.
+11. Check with inserting no coins and press ok.
+12. Testing with fake coins
+13. checking if the item is dropping in the alloted space or dropping down.
+
+Defects:
+1. Entering insufficient coins and getting an item.
+2. Selected one item and received 2 items. 
+
+
+
+ Git,jira,ALM
+
